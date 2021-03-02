@@ -2346,9 +2346,9 @@
         "amount": 5000
     },{
         "date": "1398/09/22 07:26",
-        "name": "محمد",
+        "name": "اکسل",
         "img": "",
-        "web": "",
+        "web": "https://excelpedia.net",
         "amount": 10000
     },{
         "date": "1398/09/22 12:53",
@@ -3044,7 +3044,7 @@
         "date": "1399/09/14 23:00",
         "name": "قوامی",
         "img": "",
-        "web": "",
+        "web": "https://excelpedia.net",
         "amount": 20000
     },{
         "date": "1399/09/19 16:32",
@@ -3122,7 +3122,7 @@
         "date": "1399/11/06 22:52",
         "name": "ایرج",
         "img": "",
-        "web": "",
+        "web": "https://excelpedia.net",
         "amount": 7000
     },{
         "date": "1399/11/07 00:21",
@@ -3152,7 +3152,7 @@
         "date": "1399/12/11 16:28",
         "name": "کاوه",
         "img": "",
-        "web": "",
+        "web": "https://excelpedia.net",
         "amount": 20000
     }
 ]
